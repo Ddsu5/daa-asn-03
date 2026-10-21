@@ -1,0 +1,4 @@
+V,E,kruskal_weight,prim_weight,connected,dag_accepted,cycle_rejected,scc_count
+10,30,192,192,true,true,true,1
+100,500,1313,1313,true,true,true,1
+1000,5000,12669,12669,true,true,true,1
